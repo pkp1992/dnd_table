@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dnd_table/static/css/main.6535bbbf.chunk.css",
+    "main.js": "/dnd_table/static/js/main.05d3f4dd.chunk.js",
+    "main.js.map": "/dnd_table/static/js/main.05d3f4dd.chunk.js.map",
+    "runtime-main.js": "/dnd_table/static/js/runtime-main.0e35bb69.js",
+    "runtime-main.js.map": "/dnd_table/static/js/runtime-main.0e35bb69.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/dnd_table/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c393934c.chunk.js": "/dnd_table/static/js/2.c393934c.chunk.js",
+    "static/js/2.c393934c.chunk.js.map": "/dnd_table/static/js/2.c393934c.chunk.js.map",
+    "index.html": "/dnd_table/index.html",
+    "precache-manifest.bcb878e71022b77c2d7b11813c41fcf5.js": "/dnd_table/precache-manifest.bcb878e71022b77c2d7b11813c41fcf5.js",
+    "service-worker.js": "/dnd_table/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/dnd_table/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.6535bbbf.chunk.css.map": "/dnd_table/static/css/main.6535bbbf.chunk.css.map",
+    "static/js/2.c393934c.chunk.js.LICENSE.txt": "/dnd_table/static/js/2.c393934c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e35bb69.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c393934c.chunk.js",
+    "static/css/main.6535bbbf.chunk.css",
+    "static/js/main.05d3f4dd.chunk.js"
+  ]
+}

@@ -1,0 +1,22 @@
+.table-container {
+  overflow: scroll;
+  max-height: calc(16 * 49px);
+}
+thead th {
+  position: sticky;
+  top: 0;
+}
+
+tbody th {
+  position: sticky;
+  left: 0;
+}
+thead th:first-child {
+  left: 0;
+  z-index: 1;
+}
+
+thead th {
+  position: sticky;
+  top: -1px;
+}
